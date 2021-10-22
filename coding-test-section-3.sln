@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding-test-section-3", "coding-test-section-3\coding-test-section-3.vcxproj", "{F4F7079C-9C20-444C-876E-057507C82240}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "회문 문자열 검사", "회문 문자열 검사\회문 문자열 검사.vcxproj", "{449E771A-F73A-4062-8988-32C8BEF42B3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F4F7079C-9C20-444C-876E-057507C82240}.Release|x64.Build.0 = Release|x64
 		{F4F7079C-9C20-444C-876E-057507C82240}.Release|x86.ActiveCfg = Release|Win32
 		{F4F7079C-9C20-444C-876E-057507C82240}.Release|x86.Build.0 = Release|Win32
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Debug|x64.ActiveCfg = Debug|x64
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Debug|x64.Build.0 = Debug|x64
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Debug|x86.Build.0 = Debug|Win32
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Release|x64.ActiveCfg = Release|x64
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Release|x64.Build.0 = Release|x64
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Release|x86.ActiveCfg = Release|Win32
+		{449E771A-F73A-4062-8988-32C8BEF42B3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
