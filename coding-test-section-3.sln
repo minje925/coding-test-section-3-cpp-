@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "빗물", "빗물\빗물.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "사과나무(다이아몬드)", "사과나무(다이아몬드)\사과나무(다이아몬드).vcxproj", "{748AC272-1CCF-422D-B160-3FB72D1937A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "곶감", "곶감\곶감.vcxproj", "{66D86883-6406-4919-9241-E5540A2BC5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{748AC272-1CCF-422D-B160-3FB72D1937A5}.Release|x64.Build.0 = Release|x64
 		{748AC272-1CCF-422D-B160-3FB72D1937A5}.Release|x86.ActiveCfg = Release|Win32
 		{748AC272-1CCF-422D-B160-3FB72D1937A5}.Release|x86.Build.0 = Release|Win32
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Debug|x64.ActiveCfg = Debug|x64
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Debug|x64.Build.0 = Debug|x64
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Debug|x86.Build.0 = Debug|Win32
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Release|x64.ActiveCfg = Release|x64
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Release|x64.Build.0 = Release|x64
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Release|x86.ActiveCfg = Release|Win32
+		{66D86883-6406-4919-9241-E5540A2BC5DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
